@@ -3,24 +3,24 @@
 1. Rename _`sample_config.py`_ to _`config.py`_, and update with your own _`SQLALCHEMY_DATABASE_URI`_ and desired _`SECRET_KEY`_.
 
 2. Run below command inside project directory to setup environment
-```console
-python -m venv venv
-```
+      ```console
+      python -m venv venv
+      ```
 
 3. Activate enviroment with below command (for Windows):
-```console
-venv\Scripts\activate
-```
+      ```console
+      venv\Scripts\activate
+      ```
 
 4. Run below command next to install required modules plus dependencies defined in `requirements.txt`
-```console
-pip install -r requirements.txt
-```
+      ```console
+      pip install -r requirements.txt
+      ```
 
 5. Run below command to start the app:
-```python
-python app.py
-```
+      ```python
+      python app.py
+      ```
 
 6. All Done!! [Click Here](http://localhost:5000/) to interact with your app:
 
