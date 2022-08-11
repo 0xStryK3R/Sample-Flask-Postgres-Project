@@ -1,6 +1,6 @@
 ## Sample Flask Project Using Postgres DB
 
-1. Rename `sample_config.py` to `config.py`, and update with your own `SQLALCHEMY_DATABASE_URI` and desired `SECRET_KEY`.
+1. Rename _`sample_config.py`_ to _`config.py`_, and update with your own _`SQLALCHEMY_DATABASE_URI`_ and desired _`SECRET_KEY`_.
 
 2. Run below command inside project directory to setup environment
 ```console
@@ -23,3 +23,7 @@ python app.py
 ```
 
 5. All Done!! [Click Here](http://localhost:5000/) to interact with your app:
+
+> _**Assumptions**: Python and Postgres DB have been setup and is running prior to starting with this project._
+
+> _**References**: For Complete details, please refer [`Sending data from a Flask app to PostgreSQL database`](https://towardsdatascience.com/sending-data-from-a-flask-app-to-postgresql-database-889304964bf2) for source article for this Repo._
