@@ -12,17 +12,17 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-3. Run below command next to install required modules plus dependencies defined in `requirements.txt`
+4. Run below command next to install required modules plus dependencies defined in `requirements.txt`
 ```console
 pip install -r requirements.txt
 ```
 
-4. Run below command to start the app:
+5. Run below command to start the app:
 ```python
 python app.py
 ```
 
-5. All Done!! [Click Here](http://localhost:5000/) to interact with your app:
+6. All Done!! [Click Here](http://localhost:5000/) to interact with your app:
 
 > _**Assumptions**: Python and Postgres DB have been setup and is running prior to starting with this project._
 
