@@ -1,4 +1,4 @@
-## Sample Flask Project Using Postgres DB
+## Sample Flask Project Using Postgres DB | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Sample-Flask-Postgres-Project)
 
 1. Rename _`sample_config.py`_ to _`config.py`_, and update with your own _`SQLALCHEMY_DATABASE_URI`_ and desired _`SECRET_KEY`_.
 
